@@ -18,8 +18,8 @@
 
 ### 📊 System Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=R4d1-um&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4d1-um&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=R4d1-um&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4d1-um&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
